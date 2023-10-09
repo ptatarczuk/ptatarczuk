@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 <a  href="https://www.postgresql.org/"  title="PostgreSQL"><img  src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg"  alt="PostgreSQL"  width="50px"  height="50px"></a>
 
 ## 👯 Codewars stats:
+
 <a  href="https://www.codewars.com/users/ptatarczuk"  title="codewars"><img  src="https://www.codewars.com/users/ptatarczuk/badges/large"  alt="codewars" height="50px"></a>
 <br><br>
 ## :mailbox: Contact me
