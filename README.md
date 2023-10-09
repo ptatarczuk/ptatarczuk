@@ -15,3 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a  href="https://www.codewars.com/users/ptatarczuk"  title="codewars"><img  src="https://www.codewars.com/users/ptatarczuk/badges/large"  alt="codewars" height="50px"></a>
+
+<br><br>
+## :mailbox: Contact and socials
+<a href="mailto:ptatarczuk@gmail.com">
+  <img align="left" alt="email" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+</a>
+<a href="https://linkedin.com/in/ptatarczuk">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin">
+</a>
