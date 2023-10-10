@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
+🔭 I’m currently working on finding my first job as junior fullstack developer. 
+🌱 I’m currently learning Typescript. 
+👯 I’m looking to collaborate on anything that will increase my coding and cooperation skills. 
+🤔 I’m looking for help with ...
+💬 Ask me about anything related to Java, Spring or React, Im happy to help or learn something new. 
+
 ## ⚡ Technology Stack ⚡
 
 <a  href="https://www.java.com/"  title="Java"><img  src="https://github.com/get-icon/geticon/raw/master/icons/java.svg"  alt="Java"  width="50px"  height="50px"></a>
@@ -23,7 +29,7 @@ Here are some ideas to get you started:
 <a  href="https://junit.org/junit5/"  title="Junit"><img  src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png"  alt="Junit"  width="50px"  height="50px"></a> 
 <a  href="https://spring.io/projects/spring-boot"  title="Spring-boot"><img  src="https://user-images.githubusercontent.com/25181517/117207026-c9d88300-adf3-11eb-9aad-6a875ab0f628.png"  alt="Spring-boot" height="50px"></a>
 <a  href="https://www.postgresql.org/"  title="PostgreSQL"><img  src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg"  alt="PostgreSQL"  width="50px"  height="50px"></a>
-<a  href="https://www.postgresql.org/"  title="SqLite"><img  src="https://github.com/get-icon/geticon/raw/master/icons/sqlite.svg"  alt="SqLite"  width="50px"  height="50px"></a>
+<a  href="https://www.postgresql.org/"  title="SqLite"><img  src="https://github.com/get-icon/geticon/raw/master/icons/sqlite.svg"  alt="SqLite" height="50px"></a>
 <a  href="https://www.jetbrains.com/idea/"  title="IntelliJ"><img  src="https://github.com/get-icon/geticon/raw/master/icons/intellij-idea.svg"  alt="IntelliJ"  width="50px"  height="50px"></a>
 
 <a  href="https://www.typescriptlang.org/"  title="Typescript"><img  src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg"  alt="Typescript"  width="50px"  height="50px"></a>
