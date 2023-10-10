@@ -54,6 +54,9 @@ Here are some ideas to get you started:
 ## :chart_with_upwards_trend: Codewars stats: 
 <a  href="https://www.codewars.com/users/ptatarczuk"  title="codewars"><img  src="https://www.codewars.com/users/ptatarczuk/badges/large"  alt="codewars" height="50px"></a>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ptatarczuk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ## :mailbox: Contact me
 <a href="https://linkedin.com/in/ptatarczuk">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin">
