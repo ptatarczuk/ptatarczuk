@@ -54,11 +54,11 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats:
 
-<p align=center><div align=center>
+<p align=center><div align=left>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 height=160 src="https://github-readme-streak-stats.herokuapp.com/?user=ptatarczuk&theme=dark&hide_border=false" alt="ptatarczuk" /></a>
     <a href="https://github.com/ptatarczuk/github-readme-stats">
-      <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptatarczuk&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /> </a>
+      <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptatarczuk&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" /> </a>
 </div></p>
 
 ## 🏆 GitHub Trophies
