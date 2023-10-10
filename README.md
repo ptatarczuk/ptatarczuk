@@ -16,11 +16,17 @@ Here are some ideas to get you started:
 -->
 
 
-🔭 I’m currently working on finding my first job as junior fullstack developer. 
-🌱 I’m currently learning Typescript. 
-👯 I’m looking to collaborate on anything that will increase my coding and cooperation skills. 
-🤔 I’m looking for help with ...
-💬 Ask me about anything related to Java, Spring or React, Im happy to help or learn something new. 
+- 🔭 I’m currently working on finding my first job as junior fullstack developer. 
+
+- 🌱 I’m currently learning Typescript. 
+
+- 👯 I’m looking to collaborate on anything that will increase my coding and cooperation skills. 
+
+- 🤔 I’m looking for help with ...
+
+- 💬 Ask me about anything related to Java, Spring or React, Im happy to help or learn something new. 
+
+- ⚡ Fun fact: ...
 
 ## ⚡ Technology Stack ⚡
 
