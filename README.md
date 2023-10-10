@@ -58,7 +58,7 @@ Here are some ideas to get you started:
       <img align="left" width=390 height=160 src="https://github-readme-streak-stats.herokuapp.com/?user=ptatarczuk&theme=dark&hide_border=false" alt="ptatarczuk" /></a>
     <a href="https://github.com/ptatarczuk/github-readme-stats">
       <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptatarczuk&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /> </a>
-
+</div></p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ptatarczuk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
