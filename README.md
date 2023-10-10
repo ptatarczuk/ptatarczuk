@@ -52,7 +52,8 @@ Here are some ideas to get you started:
 ## :chart_with_upwards_trend: Codewars stats: 
 <a  href="https://www.codewars.com/users/ptatarczuk"  title="codewars"><img  src="https://www.codewars.com/users/ptatarczuk/badges/large"  alt="codewars" height="50px"></a>
 
-## 📊 GitHub Stats: </br>
+## 📊 GitHub Stats:
+
 <p align=center><div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 height=160 src="https://github-readme-streak-stats.herokuapp.com/?user=ptatarczuk&theme=dark&hide_border=false" alt="ptatarczuk" /></a>
