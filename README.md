@@ -1,10 +1,10 @@
 ### Hello there, I'm Peter 👋
 
 <!--
- part-time coder and full-time adventure seeker
- - ✍️ I recently graduated from CodeCool Bootcamp
-  
-    In my free time, I enjoy hiking, open-sea swimming and spending time with family.
+ I'm a part-time coder and full-time adventure seeker
+ - ✍️ I recently graduated from CodeCool Bootcamp 
+ - 🤔 I’m looking for help with ...
+ 
   Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
 -->
 
@@ -12,13 +12,11 @@
 
 - 🌱 I’m currently learning Typescript and Junit. 
 
-- 👯 I’m looking to collaborate on projects related to Java, Spring, React or anything that will help me further develop my programming knowledge. 
-
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on projects related to Java, Spring, React or anything that will help me further develop my coding skills. 
 
 - 💬 Ask me about anything related to Java, Spring or React, Im happy to help or learn something new. 
 
-- 😄 Fun fact: In my free time, I enjoy long distance running, video games and spending time with family.
+- 😄 Fun fact: In my free time, I enjoy long distance running, video games and spending time with my family.
 
 ## ⚡ Technology Stack
 
