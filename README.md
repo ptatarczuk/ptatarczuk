@@ -1,24 +1,16 @@
-### Hi there 👋
+### Hello there, I'm Peter 👋
 
 <!--
-**ptatarczuk/ptatarczuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ part-time coder and full-time adventure seeker
+ - ✍️ I recently graduated from CodeCool Bootcamp
+  
+    In my free time, I enjoy hiking, open-sea swimming and spending time with family.
+  Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
 -->
 
+- 🔭 I’m currently working towards finding my first employment as junior fullstack developer.
 
-- 🔭 I’m currently working on finding my first employment as junior fullstack developer. 
-
-- 🌱 I’m currently learning Typescript. 
+- 🌱 I’m currently learning Typescript and Junit. 
 
 - 👯 I’m looking to collaborate on anything that will increase my coding and cooperation skills. 
 
@@ -26,7 +18,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about anything related to Java, Spring or React, Im happy to help or learn something new. 
 
-- ⚡ Fun fact: 
+- 😄 Fun fact: In my free time, I enjoy long distance running and 
 
 ## ⚡ Technology Stack
 
