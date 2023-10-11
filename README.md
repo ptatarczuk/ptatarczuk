@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on finding my first job as junior fullstack developer. 
+- 🔭 I’m currently working on finding my first employment as junior fullstack developer. 
 
 - 🌱 I’m currently learning Typescript. 
 
@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about anything related to Java, Spring or React, Im happy to help or learn something new. 
 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 
-## ⚡ Technology Stack ⚡
+## ⚡ Technology Stack
 
 <a  href="https://www.java.com/"  title="Java"><img  src="https://github.com/get-icon/geticon/raw/master/icons/java.svg"  alt="Java"  width="50px"  height="50px"></a>
 <a  href="https://spring.io/"  title="Spring"><img  src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg"  alt="Spring"  width="50px"  height="50px"></a>
