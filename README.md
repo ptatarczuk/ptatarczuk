@@ -8,17 +8,17 @@
   Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
 -->
 
-- 🔭 I’m currently working towards finding my first employment as junior fullstack developer.
+- 🔭 I’m currently working towards finding my first employment as Junior Fullstack Developer / Junior Java Developer.
 
 - 🌱 I’m currently learning Typescript and Junit. 
 
-- 👯 I’m looking to collaborate on anything that will increase my coding and cooperation skills. 
+- 👯 I’m looking to collaborate on projects related to Java, Spring, React or anything that will help me further develop my programming knowledge. 
 
 - 🤔 I’m looking for help with ...
 
 - 💬 Ask me about anything related to Java, Spring or React, Im happy to help or learn something new. 
 
-- 😄 Fun fact: In my free time, I enjoy long distance running and 
+- 😄 Fun fact: In my free time, I enjoy long distance running, video games and spending time with family.
 
 ## ⚡ Technology Stack
 
