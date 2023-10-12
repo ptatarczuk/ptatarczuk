@@ -27,7 +27,7 @@
 <a  href="https://www.postgresql.org/"  title="PostgreSQL"><img  src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg"  alt="PostgreSQL"  width="50px"  height="50px"></a>
 <a  href="https://www.postgresql.org/"  title="SqLite"><img  src="https://github.com/get-icon/geticon/raw/master/icons/sqlite.svg"  alt="SqLite" height="50px"></a>
 <a  href="https://www.jetbrains.com/idea/"  title="IntelliJ"><img  src="https://github.com/get-icon/geticon/raw/master/icons/intellij-idea.svg"  alt="IntelliJ"  width="50px"  height="50px"></a>
-<a  href="https://site.mockito.org/"  title="Mockito"><img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgHbESqAaco7AH1bl2kfvvkG8aM2iMKNou2jVcWkUlvwjEIMVSGx11iaZ33vBDpFe4LXM&usqp=CAU"  alt="Mockito"  width="50px"  height="50px"></a>
+<!-- <a  href="https://site.mockito.org/"  title="Mockito"><img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgHbESqAaco7AH1bl2kfvvkG8aM2iMKNou2jVcWkUlvwjEIMVSGx11iaZ33vBDpFe4LXM&usqp=CAU"  alt="Mockito"  width="50px"  height="50px"></a> -->
 
 <a  href="https://www.typescriptlang.org/"  title="Typescript"><img  src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg"  alt="Typescript"  width="50px"  height="50px"></a>
 <a  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  title="JavaScript"><img  src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg"  alt="JavaScript"  width="50px"  height="50px"></a>
