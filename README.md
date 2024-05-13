@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working towards finding my first employment as Junior Fullstack Developer / Junior Java Developer.
 
-- 🌱 I’m currently learning Microservies and Socket. 
+- 🌱 I’m currently learning Microservies and Sockets. 
 
 - 👯 I’m looking to collaborate on projects related to Java, Spring, React or anything that will help me further develop my coding skills. 
 
